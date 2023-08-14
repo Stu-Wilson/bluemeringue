@@ -1,0 +1,11 @@
+{
+  "/about/page": "/about",
+  "/blog-details/page": "/blog-details",
+  "/blog-sidebar/page": "/blog-sidebar",
+  "/blog/page": "/blog",
+  "/contact/page": "/contact",
+  "/error/page": "/error",
+  "/page": "/",
+  "/signin/page": "/signin",
+  "/signup/page": "/signup"
+}
